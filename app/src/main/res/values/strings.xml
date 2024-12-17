@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Gestor Deberes</string>
+    <string name="btn_cancelar">Cancelar</string>
+    <string name="btn_guardar">Guardar</string>
 </resources>
